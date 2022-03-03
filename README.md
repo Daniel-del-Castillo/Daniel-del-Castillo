@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 I'm guessing that if you are here it's because you want to see the projects I made while studying at the University of La Laguna!
+If you want to see what I've been doing outside the university you should go to [my other GitHub account](https://github.com/CastilloDel)
 
 📊 Some stats about my Github:
 
